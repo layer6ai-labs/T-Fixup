@@ -18,7 +18,7 @@ The python code is developed and tested on the following environment:
 * Python 3.7
 * Pytorch 1.2.0
 
-Experiments on IWSLT'14 De-En and En-De datasets were run on NVIDIA V100 GPU with 32GB GPU memory; all other experiments were run on the IBM server with 160 POWER9 CPUs, 600GB RAM and 4 Tesla V100 GPUs
+Experiments on IWSLT'14 De-En and En-De datasets were run on NVIDIA V100 GPU with 32GB GPU memory; all other experiments were run on an IBM server with 160 POWER9 CPUs, 600GB RAM and 4 Tesla V100 GPUs
 
 <a name="dataset"/>
 

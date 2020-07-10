@@ -34,9 +34,9 @@ The example execution script `Train_IWSLT_TFixup_example.sh` builds the IWSLT'14
 This script runs the small 512-1024-4 Transformer encoder-decoder model (see paper for details) with both layer normalization and learning rate warmup removed. Starting learning rate is set to the post warmup value of 0.0005 (vs 1e-07 with warmup). By default all avialable GPUs are used, but parameters such as batchsize are set for for 1 GPU. If multiple GPUs are avaialbe, either point the script to only one GPU or adjust model parameters accordingly.
 
 ## Validation Curves
-Training and validation loss curves for the T-Fixup model on IWSLT'14 De-En dataset for the first 300 epochs. One epoch is around 
+Training and validation loss curves for a Transformer model trained with T-Fixup on the IWSLT'14 De-En dataset during the first 300 epochs. One epoch is around 
 1100 updates and we checkpoint the model after each epoch.
 <p align="center">
 <img src="https://github.com/layer6ai-labs/T-Fixup/blob/master/TFixup_IWSLT14_LossCurve.png" width="500">
 </p>
-BLEU score, evaluated using the average of 10 checkpoints, reaches 35.73 at epoch 278-287
+BLEU score, evaluated using the average of 10 checkpoints, reaches 35.73 at epochs 278-287

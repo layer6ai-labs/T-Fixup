@@ -2,7 +2,8 @@
 <a href="https://layer6.ai/"><img src="https://github.com/layer6ai-labs/DropoutNet/blob/master/logs/logobox.jpg" width="180"></a>
 </p>
 
-## ICML'20 Improving Transformer Optimization Through Better Initialization [[paper](http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup.pdf)]
+## ICML'20 Improving Transformer Optimization Through Better Initialization 
+[[paper](http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup.pdf)][[supp](http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup_supp.pdf)]
 
 Authors: Xiao Shi Huang, Felipe Perez, [Jimmy Ba](https://jimmylba.github.io), [Maksims Volkovs](http://www.cs.toronto.edu/~mvolkovs)
 

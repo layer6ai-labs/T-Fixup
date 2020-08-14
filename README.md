@@ -3,7 +3,7 @@
 </p>
 
 ## ICML'20 Improving Transformer Optimization Through Better Initialization 
-[[paper](http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup.pdf)][[supp](http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup_supp.pdf)]
+[[paper](http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup.pdf)][[supp](http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup_supp.pdf)][[video](https://slideslive.com/38928414/)]
 
 Authors: Xiao Shi Huang, Felipe Perez, [Jimmy Ba](https://jimmylba.github.io), [Maksims Volkovs](http://www.cs.toronto.edu/~mvolkovs)
 

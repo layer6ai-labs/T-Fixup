@@ -12,6 +12,8 @@ Authors: Xiao Shi Huang, Felipe Perez, [Jimmy Ba](https://jimmylba.github.io), [
 ## Introduction
 This repository contains full implementation of the T-Fixup algorithm implemented on the fairseq library, and includes both training and evaluation routines on the IWSLT'14 De-En dataset.
 
+T-Fixup was used by [Javier Martin](https://www.kaggle.com/bacterio) and [Andres Torrubia](https://www.kaggle.com/antorsae) in their 3'rd place (our of 3395 teams) solution for "Riiid Answer Correctness Prediction" Kaggle challenge. See [this blogpost](https://www.kaggle.com/c/riiid-test-answer-prediction/discussion/209585).
+
 <a name="env"/>
 
 ## Environment
